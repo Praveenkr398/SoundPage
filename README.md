@@ -4,7 +4,7 @@ Ek basic HTML & CSS audio player, jisme ek play button click karne par sound pla
 Live : https://praveenkr398.github.io/SoundPage/
 Code : https://github.com/Praveenkr398/SoundPage
 
-🎨 Features:
+🎨 Features:;
 ✅ Pure HTML & CSS (No JavaScript Required)
 ✅ Simple & Lightweight
 ✅ Custom Play Button
