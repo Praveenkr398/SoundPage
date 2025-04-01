@@ -10,5 +10,7 @@ Code : https://github.com/Praveenkr398/SoundPage
 ✅ Custom Play Button
 ✅ Responsive Design
 
+Category:- "Mini Project, HTML, CSS, JavaScript"
+
 ![image](https://github.com/user-attachments/assets/b8b99e70-6133-4213-9283-93414d7ee4d7)
 
